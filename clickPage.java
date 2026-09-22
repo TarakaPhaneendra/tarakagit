@@ -2,7 +2,7 @@ package pageClasses;
 
 import org.openqa.selenium.WebDriver;
 
-import basePage.BasePage; //hikhhgjjoh
+import basePage.BasePage; 
 
 public class clickPage extends BasePage{   
 WebDriver driver;
