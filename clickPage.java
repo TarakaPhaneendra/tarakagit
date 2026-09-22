@@ -6,7 +6,7 @@ import basePage.BasePage;
 
 public class clickPage extends BasePage{
 WebDriver driver;
-public clickPage(WebDriver driver) {
+public clickPage(WebDriver driver) {  //second comment
 	super(driver); //   taraka comment
 
 }
